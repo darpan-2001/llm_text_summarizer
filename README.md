@@ -5,4 +5,4 @@
 2. Activate the enviornment using the command: .\venv\Scripts\activate
 3. Install all the dependencies needed using command: pip install -r requirements.txt
 4. Now to run the streamlit application, run the command: streamlit run main.py
-5. Enter the passage text in the text field and click the "Analyse" button.
+5. Enter the passage text in the text field and click the "Analyze" button.
